@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hello in git hub
+=======
+#include<stdio.h>
+main()
+{
+printf("hello mADHURI");
+}
+>>>>>>> e6819d51a3a5e696a8f4deabcaa8ca9d9d0384fa
