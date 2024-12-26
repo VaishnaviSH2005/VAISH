@@ -1,1 +1,5 @@
-hello vaishnavi
+#include<stdio.h>
+main()
+{
+printf("hello mADHURI");
+}
